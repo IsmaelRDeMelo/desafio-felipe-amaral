@@ -74,3 +74,4 @@ Use **dbt** para executar as transformações via SQL diretamente no PostgreSQL.
 *   **Orquestração:** A DAG do Airflow está bem estruturada? Ela lida bem com tarefas de longa duração?
 *   **Documentação:** O `README.md` está claro e completo?
 *   **Conceitos Avançados:** O candidato demonstrou saber lidar com grandes volumes de dados (chunking), modelagem para performance analítica e testes de consistência entre os modelos.
+*   **Sobre uso de AI:** O candidato poderá usar a IA que quiser, desde que deixe documentado os códigos que a AI gerou pra ele ou o raciocínio feito para usar a AI, no caso de não geração de código por parte dela. Contudo, o desafio não poderá ser inteiramente desenvolvido com o uso de Agentes, trechos de código são aceitáveis, a implementação inteira, não.
